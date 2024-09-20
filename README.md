@@ -1,4 +1,4 @@
-# Assignment-2(4.Smart Home System Programming Exercise)
+# 4.Smart Home System Programming Exercise
 1. SmartDevice.java
   Declares an abstract parent class to encompass the various kinds of smart devices-Light, Thermostat, DoorLock.
   Commonly defined attributes : id, status and methods : turnOn(), turnOff(), getStatus() in this class, which the subclasses implement.
